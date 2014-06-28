@@ -1,0 +1,8 @@
+inculd<mian.h>
+int a;
+var b;
+int d;
+mian()
+{
+printf("please input you love food name:\n",\f);
+}
