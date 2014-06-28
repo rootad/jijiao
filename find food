@@ -1,8 +1,8 @@
-inculd<mian.h>
-int a;
-var b;
-int d;
-mian()
+#inculd<stdio.h>
+int mian()
 {
-printf("please input you love food name:\n",\f);
+char a;
+printf("please input you love food name:"\n);
+scanf("%s",&a);
+printf("please input you love food name is %s ?",a);
 }
